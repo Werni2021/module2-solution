@@ -1,0 +1,8 @@
+.row {
+  margin-bottom: 20px
+  width: 100%;
+}
+.row > div {
+  border: 0px solid grey;
+  background-color: white;
+}
